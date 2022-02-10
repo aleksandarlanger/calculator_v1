@@ -16,7 +16,7 @@ main {
 }
 
 .content {
-  width: 500px;
+  width: 350px;
   margin: 0 auto;
 }
 
@@ -34,11 +34,11 @@ main {
   flex-direction: column;
   border-radius: 0.7rem;
   padding: 2em 0;
-  height: 400px;
+  height: 360px;
 }
 
 button {
-  width: 6em;
+  width: 4em;
   border: none;
   margin: 0.5rem;
   padding: 1em;
