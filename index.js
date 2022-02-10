@@ -1,7 +1,6 @@
 const arrayOfNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0, ","];
 let numberOne = 0;
 let numberTwo = 0;
-let result = 0;
 let addition = false;
 let divide = false;
 let multiplication = false;
